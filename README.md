@@ -1,1 +1,1 @@
-My first readme
+Welcome to Ikiara's repository. It's my first and, indeed, major step in becoming a FSSE. By learning to weild resources such as Git and GitHub, which I might add are powerful by their own right, I'll be in the ranks of the great programmers. Please feel free to chip in and collaborate with me.
