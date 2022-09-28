@@ -1,1 +1,1 @@
-git rebase -i dee2b21, then press ":e"
+git fetch https://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@github.com/brian-ikiara/alx-pre_course.git master
